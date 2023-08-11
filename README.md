@@ -51,3 +51,7 @@ To explore the 3D Portfolio, follow these steps:
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
    npm run dev
+## Demo
+Check out the live demo: [3D Portfolio Demo](https://john-paul-portfolio.vercel.app/)
+
+## AS ALWAYS FILLED AND MADE WITH ❤️
