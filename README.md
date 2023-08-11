@@ -42,14 +42,12 @@ A Portfolio build by Tailwind, React, Framer Motion and many more
 
 To explore the 3D Portfolio, follow these steps:
 
-1. Clone the repository:
+1. Follow these Steps:
 
    ```sh
    git clone https://github.com/your-username/3d-portfolio.git
-1.5. cd 3d-portfolio
-1.6. npm install three framer-motion
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-2. Install The Needed Through npm or yarn
-3. npm run dev
-4. That's It
+   cd 3d-portfolio
+   npm install three framer-motion
+   npm install -D tailwindcss postcss autoprefixer
+   npx tailwindcss init -p
+   npm run dev
