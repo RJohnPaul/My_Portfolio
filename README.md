@@ -54,4 +54,4 @@ To explore the 3D Portfolio, follow these steps:
 ## Demo
 Check out the live demo: [3D Portfolio Demo](https://john-paul-portfolio.vercel.app/)
 
- AS ALWAYS FILLED AND MADE WITH ❤️
+ ## AS ALWAYS FILLED AND MADE WITH  ❤︎
