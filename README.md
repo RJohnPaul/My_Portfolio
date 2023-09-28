@@ -2,7 +2,7 @@
 A Portfolio build by Tailwind, React, Framer Motion and many more
 # 3D Portfolio
 
-![Portfolio Banner](https://path-to-your-image.png)
+![Portfolio Banner](https://github.com/iamjohndevboy/My_Portfolio/blob/43a7eb1782f39f9f0e213ebc5c5dfd6e0eeb6cf2/Porfolio.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-8A2BE2" alt="Open Source">
